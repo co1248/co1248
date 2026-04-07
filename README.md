@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GitHub%20Stats&fontSize=90)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=co1248&show_icons=true&theme=radical)](https://github.com/co1248)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=co1248&layout=compact)](https://github.com/co1248/github-readme-stats)
-
 ---
 
 ### 🛠 Tech Stack
